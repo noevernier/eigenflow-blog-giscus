@@ -99,5 +99,5 @@ main .gsc-loading-image {
 }
 
 .gsc-comments {
-    display: none;
+    visibility: hidden;
 }
